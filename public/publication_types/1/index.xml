@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Home Page</title>
-    <link>http://localhost:1313/publication_types/1/</link>
+    <link>https://janakivamaraju.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Home Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Janaki Vamaraju</copyright>
     <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://janakivamaraju.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>(Submitted) Mean field Boltzmann machines for Kirchhoff migration</title>
-      <link>http://localhost:1313/publication/clothing-search/</link>
+      <link>https://janakivamaraju.github.io/publication/clothing-search/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/clothing-search/</guid>
+      <guid>https://janakivamaraju.github.io/publication/clothing-search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparison of continuous, discontinuous, and enriched Galerkin finite-element methods for elastic wave-propagation simulation </title>
-      <link>http://localhost:1313/publication/eg-conf/</link>
+      <link>https://janakivamaraju.github.io/publication/eg-conf/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/eg-conf/</guid>
+      <guid>https://janakivamaraju.github.io/publication/eg-conf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hybrid-Galerkin finite-element method for seismic wave propagation in fractured media </title>
-      <link>http://localhost:1313/publication/hybrid-conf/</link>
+      <link>https://janakivamaraju.github.io/publication/hybrid-conf/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/hybrid-conf/</guid>
+      <guid>https://janakivamaraju.github.io/publication/hybrid-conf/</guid>
       <description></description>
     </item>
     
