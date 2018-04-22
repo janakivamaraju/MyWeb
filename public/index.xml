@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on Home Page</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home Page on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Janaki Vamaraju</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;p&gt;Collaborators:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/jonasdebasabe/home&#34; target=&#34;_blank&#34;&gt;Dr. Jonas D. De Basabe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://users.ices.utexas.edu/~mfw/&#34; target=&#34;_blank&#34;&gt;Dr. Mary F. Wheeler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/aimee-taylor-b02ab633/&#34; target=&#34;_blank&#34;&gt;Aimee Taylor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/avinashwesley/&#34; target=&#34;_blank&#34;&gt;Dr. Avinash Wesley&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/josephwinston/&#34; target=&#34;_blank&#34;&gt;Jody Winston&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Consortium:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.jsg.utexas.edu/edger&#34; target=&#34;_blank&#34;&gt;EDGER Forum&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(Submitted) A comparison of continuous, discontinuous, and enriched Galerkin finite-element methods for elastic wave-propagation simulation</title>
+      <link>http://localhost:1313/publication/eg-journal/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/eg-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Submitted) Mean field Boltzmann machines for Kirchhoff migration</title>
+      <link>http://localhost:1313/publication/clothing-search/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Under Preparation) A hybrid-Galerkin finite-element method for seismic wave propagation in fractured media </title>
+      <link>http://localhost:1313/publication/hybrid-journal/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/hybrid-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Under Preparation) Generalization of machine learning models to predict lithology over multiple wells</title>
+      <link>http://localhost:1313/publication/lithology-identification/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/lithology-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of continuous, discontinuous, and enriched Galerkin finite-element methods for elastic wave-propagation simulation </title>
+      <link>http://localhost:1313/publication/eg-conf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/eg-conf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hybrid-Galerkin finite-element method for seismic wave propagation in fractured media </title>
+      <link>http://localhost:1313/publication/hybrid-conf/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/hybrid-conf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
